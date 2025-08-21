@@ -1,1 +1,3 @@
 # aula-git-de-pi
+
+# diego dropou o banco...
